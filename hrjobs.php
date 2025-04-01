@@ -3,7 +3,7 @@
 Plugin Name: HR Jobs
 Description: A plugin to manage job applications and job postings.
 Version: 1.6
-Author: Techarch Softwares
+Author: AnkushK2022
 */
 
 // Exit if accessed directly.
